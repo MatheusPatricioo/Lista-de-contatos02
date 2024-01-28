@@ -14,7 +14,7 @@ O objetivo deste projeto é criar uma lista de contatos que se destaque pela sua
 
 ## Imagem do projeto
 
-![Captura de Tela do Site](screenshots/screenshot.png)
+![Captura de Tela do Site](imagens/img.png)
 
 
 
